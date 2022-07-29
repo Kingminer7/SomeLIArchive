@@ -5,7 +5,7 @@ LevelImposter is a mod created by DigiWorm, currently being recoded. I made an a
 # LevelImposter: 
 Editor
 Keep in mind - Currently this is in dev testing. Although Digi lets us use it, it still has glitches.
-editor.levelimposter.net
+https://editor.levelimposter.net
 
 Mod Repository
 https://github.com/DigiWorm0/LevelImposter/tree/li2
